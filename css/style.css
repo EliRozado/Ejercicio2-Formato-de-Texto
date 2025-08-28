@@ -1,0 +1,28 @@
+.miembro-imperio{
+    background-color: red;
+}
+
+.miembro-rebeldes{
+    background-color: blue;
+}
+
+#darthvader{
+    font-size: 20px;
+}
+
+#lukeskywalker{
+    font-style: italic;
+}
+
+.soldados{
+    border: 5px dashed yellow;
+    letter-spacing: 5px;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.naves{
+    text-transform: uppercase;
+}
